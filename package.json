@@ -9,7 +9,7 @@
     "express": "^4.13.4",
     "mongodb": "^2.1.7",
     "optimist": "^0.6.1",
-    "mongoose": "^4.4.6",
+    "mongoose": "^5.9.25",
     "sendgrid": "^2.0.0",
     "request": "^2.69.0",
     "string_decoder": "^0.10.31",
